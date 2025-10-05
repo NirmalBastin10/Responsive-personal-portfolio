@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-Londrina: 'Londrina Outline', sans-serif;
+  --font-Sora: 'Sora', sans-serif;
+  --breakpoint-3xl: 1600px;
+  --breakpoint-slar: 590px;
+  --breakpoint-tss: 1046px;
+  --breakpoint-s394: 394px;
+  --breakpoint-heroimg: 1539px;
+
+
+}
+
